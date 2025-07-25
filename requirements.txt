@@ -14,3 +14,9 @@ ta==0.10.2
 fpdf2==2.7.6
 python-dateutil==2.8.2
 requests==2.31.0
+scipy==1.11.4
+cvxpy==1.4.1
+prophet==1.1.5
+streamlit-plotly-events==0.0.6
+streamlit-aggrid==0.3.4
+streamlit-option-menu==0.3.6
